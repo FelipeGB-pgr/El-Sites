@@ -1,1 +1,1 @@
-Arquivos de Sites contributivos para projetos iniciais.
+Completely responsive website design archives.
